@@ -1,0 +1,10 @@
+{
+  "id": "community-plugins",
+  "name": "Community Plugins",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Quickly open Community settings / browse",
+  "author": "Ugo Carrasco",
+  "authorUrl": "https://github.com/ucarrasco",
+  "isDesktopOnly": true
+}
